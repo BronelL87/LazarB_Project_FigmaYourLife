@@ -8,6 +8,6 @@
 
 ### Peer Review
 
-**Reviewer**: 
+**Reviewer**: Alexander Soria
 
-**Reviewer Notes**: 
+**Reviewer Notes**: Your site looks good. You formatted it pretty well, and everything is easy to read. It all lines up with your figma very accurately. If anything, you missed an href when navigating from Accomplishments to Interests. I'd say take a look at that before submitting. Nice job otherwise!
